@@ -1,7 +1,9 @@
 node_modules
 stylesheet/sass/bourbon
+bower_components
 .sass-cache
 
 .DS_Store
+bower2.json
 
 stylesheet/.DS_Store
