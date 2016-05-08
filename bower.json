@@ -1,0 +1,10 @@
+{
+  "name": "docdel",
+  "description": "An online document repository that is searchable.",
+  "main": "app.js",
+  "authors": [
+    "Hakim Mazouz"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/Ulikazu/docdel"
+}
