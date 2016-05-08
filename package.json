@@ -1,0 +1,19 @@
+{
+  "name": "docdel",
+  "version": "1.0.0",
+  "description": "An online document repository that is searchable.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ulikazu/docdel.git"
+  },
+  "author": "Hakim Mazouz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ulikazu/docdel/issues"
+  },
+  "homepage": "https://github.com/Ulikazu/docdel#readme"
+}
