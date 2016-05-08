@@ -1,0 +1,7 @@
+node_modules
+stylesheet/sass/bourbon
+.sass-cache
+
+.DS_Store
+
+stylesheet/.DS_Store
